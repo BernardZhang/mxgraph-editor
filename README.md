@@ -1,2 +1,10 @@
-# mxgraph-editor
-graph eidtor based on mxgraph
+```jsx
+import ReactDOM from 'react-dom';
+import GraphEditor from './editor';
+
+ReactDOM.render(
+    <GraphEditor />,
+    document.getElementById('root')
+);
+
+```
